@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador con más de 7 años de experiencia en varias tecnologías, me especializo en tecnologías .Net, Front end con Angular y base de datos SQL Server. <br>Cuento con gran capacidad para trabajar en equipo. trabajé en grandes empresas del rubro financiero como Invertir Online y en proyectos internacionales como la aerolínea Avianca.
+Soy desarrollador con más de 7 años de experiencia en varias tecnologías, me especializo en tecnologías .Net, Front end con Angular y base de datos SQL Server. <br>Cuento con gran capacidad para trabajar en equipo. trabajé en grandes empresas del rubro financiero como Invertir Online y en clientes internacionales como aerolínea Avianca.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sebacapu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-ariel-capurro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.arielcapurro@gmail.com) 
